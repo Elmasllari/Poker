@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\erike\source\repos\poker\poker\Source.cpp(23,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\erike\source\repos\poker\poker\Source.cpp(306,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erike\source\repos\poker\poker\Source.cpp(372,9): warning C4101: 'value': unreferenced local variable
+C:\Users\erike\source\repos\poker\poker\Source.cpp(412): warning C4715: 'gethigher': not all control paths return a value
+  poker.vcxproj -> C:\Users\erike\source\repos\poker\Debug\poker.exe
